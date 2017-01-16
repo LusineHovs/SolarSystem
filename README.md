@@ -30,7 +30,7 @@ set
  
  **Outputs**
  
-  <img src="https://cloud.githubusercontent.com/assets/24455176/21983514/2132d82c-dc0b-11e6-9af1-128ea710fccc.jpg" width="150px"  /> 
+  <img src="https://cloud.githubusercontent.com/assets/24455176/21983514/2132d82c-dc0b-11e6-9af1-128ea710fccc.jpg"  />  
 
 
 
