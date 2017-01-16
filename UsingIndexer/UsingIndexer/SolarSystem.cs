@@ -19,7 +19,7 @@ namespace UsingIndexer
             this.planetsNumber = planetsNumber;
         }
         public string this[int index]
-        { 
+        {
             get
             {
                 if (index < 0 && index > planetsNumber)
