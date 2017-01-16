@@ -8,3 +8,21 @@ protected string systemName { get; set; }
 protected int planetsNumber { get; set; }
 protected string[] planetsName { get; set; }
 ```
+And **SolarSystem** concrete class which derived from **StarSystem**.
+By using **Indexers** I set indexes to planets' name.
+
+```C#
+public string this[int index]
+        {
+            get
+            {
+                if (index < 0 && index > planetsNumber)
+                    throw new IndexOutOfRangeException();
+                return planetsName[index];
+            }
+            set
+            {
+                planetsName[index] = value;
+            }
+        }
+        ```
