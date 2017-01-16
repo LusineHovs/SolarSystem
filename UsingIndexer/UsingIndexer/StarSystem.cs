@@ -9,7 +9,7 @@ namespace UsingIndexer
     public abstract class StarSystem
     {
         protected string systemName { get; set; }
-        protected int planetsNumber;
+        protected int planetsNumber { get; set; }
         protected string[] planetsName { get; set; }
     }
 }
