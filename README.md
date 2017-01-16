@@ -30,5 +30,14 @@ public string this[int index]
  
  # Outputs
  
- dcvfvgbdd
-        
+- The 1st planet of SolarSystem is Mercury
+The 2st planet of SolarSystem is Venus
+The 3st planet of SolarSystem is Earth
+The 4st planet of SolarSystem is Mars
+The 5st planet of SolarSystem is Jupiter
+The 6st planet of SolarSystem is Saturn
+The 7st planet of SolarSystem is Uranus
+The 8st planet of SolarSystem is Neptune
+The 9st planet of SolarSystem is Pluto
+
+        
