@@ -29,17 +29,9 @@ set
  In **Testing** folder is executable program, outputs of execution are following
  
  **Outputs**
- <img src="https://cloud.githubusercontent.com/assets/24455176/21983514/2132d82c-dc0b-11e6-9af1-128ea710fccc.jpg"  /> 
+ 
+                     <img src="https://cloud.githubusercontent.com/assets/24455176/21983514/2132d82c-dc0b-11e6-9af1-128ea710fccc.jpg"  /> 
 
 
-- The 1st planet of SolarSystem is Mercury
-- The 2st planet of SolarSystem is Venus
-- The 3st planet of SolarSystem is Earth
-- The 4st planet of SolarSystem is Mars
-- The 5st planet of SolarSystem is Jupiter
-- The 6st planet of SolarSystem is Saturn
-- The 7st planet of SolarSystem is Uranus
-- The 8st planet of SolarSystem is Neptune
-- The 9st planet of SolarSystem is Pluto
 
         
