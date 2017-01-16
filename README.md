@@ -8,7 +8,7 @@ protected string systemName { get; set; }
 protected int planetsNumber { get; set; }
 protected string[] planetsName { get; set; }
 ```
-And you can find **SolarSystem** concrete class which derived from **StarSystem**.
+And you can find **SolarSystem** concrete class which is the implementation of **StarSystem**.
 By using **Indexers** I set indexes to planets' name.
 
 ```C#
