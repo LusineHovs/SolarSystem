@@ -1,5 +1,6 @@
 # SolarSystem
-Introduction of Solar System planets using Indexers (C# 6.0) 
+Introduction of Solar System planets using Indexers (C# 6.0, .Net Framework 4.6, Microsoft Visual Studio) 
+
 
 In the documents you can find **StarSystem** abstract class with the following fields.
 
