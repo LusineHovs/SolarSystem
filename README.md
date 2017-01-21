@@ -15,17 +15,17 @@ By using **Indexers** I set indexes to planets' name.
 ```C#
 public string this[int index]
 {
-get
-    {
-      if (index < 0 && index > planetsNumber)
-         throw new IndexOutOfRangeException();
-      return planetsName[index];
-    }
-set
-    {
-       planetsName[index] = value;
-    }
-    }
+ get
+     {
+       if (index < 0 && index > planetsNumber)
+          throw new IndexOutOfRangeException();
+       return planetsName[index];
+     }
+ set
+     {
+        planetsName[index] = value;
+     }
+ }
  ```
  In **Testing** folder is executable program, outputs of execution are following
  
