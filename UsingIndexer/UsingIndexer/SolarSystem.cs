@@ -8,7 +8,8 @@ namespace UsingIndexer
 {
     public class SolarSystem : StarSystem
     {
-        new public string[] planetsName = { "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto" };
+        private string[] planetsName = { "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto" };
+
         public SolarSystem()
         {
 
@@ -31,5 +32,8 @@ namespace UsingIndexer
                 planetsName[index] = value;
             }
         }
+
+       
+
     }
 }

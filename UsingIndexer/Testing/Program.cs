@@ -12,12 +12,15 @@ namespace Testing
         static void Main(string[] args)
         {
             SolarSystem ss = new SolarSystem("SolarSystem", 9);
-           
+
             Console.ForegroundColor = ConsoleColor.Magenta;
             for (int i = 0; i < 9; i++)
             {
-                Console.WriteLine($"The {i + 1}st planet of SolarSystem is {ss.planetsName[i]}");
+                Console.WriteLine($"The {i + 1}st planet of SolarSystem is {ss[i]}");
             }
+
+
+            Console.WriteLine(); 
             Console.Read();
         }
     }
